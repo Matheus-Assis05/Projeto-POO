@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "e8df40ed-66ec-4d2d-b491-f3dde4acbfad": {
+      "ProjectGuid": "e8df40ed-66ec-4d2d-b491-f3dde4acbfad",
+      "DisplayName": "OS_35",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
